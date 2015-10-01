@@ -13,4 +13,16 @@ I will obey your orders. I will serve this ship as First Officer. And in an atta
   jgs    ``--..___  `````  __..--``
                   `````````
 
+<<<<<<< HEAD
 Cupcake ipsum dolor sit amet. Sweet fruitcake candy candy canes. Cake pastry bonbon pie chocolate soufflé. Cheesecake cheesecake sweet roll cake chupa chups candy canes. Pastry halvah carrot cake sesame snaps. Sweet chupa chups dragée chocolate cake. Bear claw marshmallow cake.
+=======
+
+
+                                                                                                                                                                                           
+,--------.                           ,---.                            ,--.  ,--.     ,--.                   ,--.           ,--.                                ,--.                 ,--. 
+'--.  .--',--. ,--.,---.  ,---.     '   .-'  ,---. ,--,--,--. ,---. ,-'  '-.|  ,---. `--',--,--,  ,---.     |  |-.  ,--,--.`--' ,---. ,--.--.,--.,--.,--.  ,--.|  |-.  ,---. ,--.--.`--' 
+   |  |    \  '  /| .-. || .-. :    `.  `-. | .-. ||        || .-. :'-.  .-'|  .-.  |,--.|      \| .-. |    | .-. '' ,-.  |,--.| .-. :|  .--'|  ||  | \  `'  / | .-. '| .-. :|  .--',--. 
+   |  |     \   ' | '-' '\   --.    .-'    |' '-' '|  |  |  |\   --.  |  |  |  | |  ||  ||  ||  |' '-' '    | `-' |\ '-'  ||  |\   --.|  |   '  ''  '  \    /  | `-' |\   --.|  |   |  | 
+   `--'   .-'  /  |  |-'  `----'    `-----'  `---' `--`--`--' `----'  `--'  `--' `--'`--'`--''--'.`-  /      `---'  `--`--'`--' `----'`--'    `----'    `--'    `---'  `----'`--' .-'  / 
+          `---'   `--'                                                                           `---'                                                                            '---'  
+>>>>>>> b7025258153ad7d7778a5f083b37eb876516a7c8
